@@ -135,13 +135,3 @@ Consider adding these features to enhance Mediplus:
 These additions can significantly improve user engagement and satisfaction with Mediplus.
 
 
----
-
-### Footer
-
-- *Contact Us*: [mmabiaa](mailto:isbbydior@gmail.com)
-- *Follow Us*: [Twitter](https://twitter.com/mmabiaa) | [TikTok](https://tiktok.com/_mmabiaa) | [Instagram](https://instagram.com/mmabiaa_)
-- *License*: © 2025 Mmabiaa - Mediplus. All rights reserved.
-- *Last Updated*: January 5, 2025
-
----
