@@ -1,5 +1,8 @@
-
+About
+This is a simple template for a medical website built using html, css, js and php
 # Mediplus 
+
+live link: https://mediplus-mmabiaa.vercel.app/
 
 Mediplus is a healthcare management system designed to simplify the process of managing patient data, appointments, prescriptions, and medical histories. This platform aims to enhance the quality of care, improve efficiency, and optimize hospital management through a user-friendly interface and powerful features.
 
